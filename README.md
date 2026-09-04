@@ -7,7 +7,7 @@ A distance alarm that detects when an object is too close and sounds an alarm.
 - ESP32-S3 development board
 - HC-SR04 ultrasonic distance sensor
 - 16×2 I2C LCD display
-- Passive buzzer
+- Active buzzer
 - 74HC595 shift register + 8-LED bar
 - Breadboard and jumper wires
 
